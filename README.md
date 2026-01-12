@@ -28,7 +28,3 @@ The goal of the project is simplicity and learning, not production use.
 - Can be run locally or deployed on a server
 - Easy to understand project structure
 
-
-
-## Project Structure
-
